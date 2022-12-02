@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Speech:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Speech_jar</output-path>
+    <root id="archive" name="Speech.jar">
+      <element id="module-output" name="Speech" />
+      <element id="library" level="project" name="sphinx4-data-5prealpha-20160628.232535-10" />
+      <element id="library" level="project" name="sphinx4-core-5prealpha-20160628.232526-10" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libraries/sphinx4-data-5prealpha-20160628.232535-10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libraries/sphinx4-core-5prealpha-20160628.232526-10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

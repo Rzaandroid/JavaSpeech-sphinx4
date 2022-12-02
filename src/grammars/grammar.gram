@@ -1,0 +1,5 @@
+grammar grammar;
+
+public <numbers> = (one | two | three);
+public <numbers> = (plus | minus | multiply | division);
+public <numbers> = (show result);
